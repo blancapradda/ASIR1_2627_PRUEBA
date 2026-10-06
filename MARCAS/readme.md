@@ -1,1 +1,1 @@
-Directorio para las pruebas de Marcas
+Directorio para las pruebas de Marcas.
